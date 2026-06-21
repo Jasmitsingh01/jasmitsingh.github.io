@@ -72,6 +72,7 @@ export default function Contact() {
 
     return (
         <div
+            id="contact"
             className="h-screen w-screen flex flex-col justify-center items-center pointer-events-auto overflow-y-auto overflow-x-hidden"
             style={{ position: "absolute", top: 0, left: "300vw" }}
         >

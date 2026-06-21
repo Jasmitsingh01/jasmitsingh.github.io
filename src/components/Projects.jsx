@@ -97,6 +97,22 @@ const projects = [
         tagBg: "bg-cyan-400/10 border-cyan-400/15 text-cyan-300/80",
         numColor: "text-cyan-300/10 group-hover:text-cyan-300/25",
     },
+    {
+        title: "Invocie Genrateor",
+        description: "Invocie genrator with Html , Tailwind and JS for Genrating Invocie/Bills for Shopkeeper.",
+        tags: ["Html", "Tailwind", "JavaScript"],
+        link: "https://task-intershala.vercel.app/",
+        gradient: "from-orange-600/30 via-amber-500/20 to-yellow-600/10",
+        border: "border-orange-400/25",
+        glow: "bg-orange-500/20",
+        hoverBorder: "hover:border-orange-400/50",
+        titleColor: "text-orange-100",
+        titleHover: "group-hover:text-orange-300",
+        descColor: "text-orange-200/50",
+        descHover: "group-hover:text-orange-100/70",
+        tagBg: "bg-orange-400/10 border-orange-400/15 text-orange-300/80",
+        numColor: "text-orange-300/10 group-hover:text-orange-300/25",
+    },
 ]
 
 const container = {
